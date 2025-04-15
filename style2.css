@@ -1,0 +1,14 @@
+.font {
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.header-container{
+    display: flex;
+    justify-content: space-between;
+    gap: 26px;
+}
+
+nav{
+    gap: 26px;
+}
